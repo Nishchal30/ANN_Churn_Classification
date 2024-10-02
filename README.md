@@ -1,0 +1,1 @@
+## This application is for the Chrun prediction of customer using ANN architecture.

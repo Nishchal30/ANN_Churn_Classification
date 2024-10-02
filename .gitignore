@@ -1,0 +1,4 @@
+.venv
+logs/
+*.pkl
+*.h5
